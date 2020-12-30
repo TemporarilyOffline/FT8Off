@@ -78,7 +78,7 @@ remotely operated station must obey all station license, operator license, and c
 1.
 # LOGDEADLINE:
 
-1. All entries must be sent WITHIN FIVE (8) HOURS of the contest end.
+1. All entries must be sent WITHIN EIGHT (8) HOURS of the contest end.
 
 1. Currently, no extensions are considered. This may change in the future.
 
