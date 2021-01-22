@@ -2,30 +2,29 @@
 
 **Times – Weekly / Times to be announced**
 
-1. **OBJECTIVE:** For amateurs around the world to make as many contacts as possible in a one hour period while having a good time. The goal is to face off against a friend, a group of people, and/or other Youtubers
+**OBJECTIVE:**
+For amateurs around the world to make as many contacts as possible in a one hour period while having a good time. The goal is to face off against a friend, a group of people, and/or other Youtubers
 
-1. **BANDS: As this is not an official contest, any band/frequency which allows FT8 is permitted.**
+**BANDS: As this is not an official contest, any band/frequency which allows FT8 is permitted.**
 
-**One Transmitter:** A maximum of ONE Transmitter may be used at any given time during the competition. Contestants MUST indicate if they have switched Transmitters during the competition. A maximum of two different transmitters may be used during the span of each contest/competition, if they are not used together. Once a transmitter has been deemed swapped or replaced, it may not be used for the rest of the competition/contest. Total output power must not exceed **1500 watts** on any band at anytime, anything above 1500 Watts makes you a WAR CRIMINAL.
+**One Transmitter:**
+A maximum of ONE Transmitter may be used at any given time during the competition. Contestants MUST indicate if they have switched Transmitters during the competition. A maximum of two different transmitters may be used during the span of each contest/competition, if they are not used together. Once a transmitter has been deemed swapped or replaced, it may not be used for the rest of the competition/contest. Total output power must not exceed **1500 watts** on any band at anytime, anything above 1500 Watts makes you a WAR CRIMINAL.
 
-1. **AWARDS:** In the future, multiple awards may be offered. The plan or thought is to have two different awards: Multiband competition awards and single band. Awards can be done certificate format or in prize format. Awards can also be fun. Any recommendations for awards may be considered.
+**AWARDS:**
+In the future, multiple awards may be offered. The plan or thought is to have two different awards: Multiband competition awards and single band. Awards can be done certificate format or in prize format. Awards can also be fun. Any recommendations for awards may be considered.
 
-1. **Certificates:** No certificates are granted at this current moment.
+**Certificates:**
+No certificates are granted at this current moment.
 
-1. **Prizes:** In the future, Prizes may be given out for tournament winners. This will be updated when further information becomes available.
+**Prizes:**
+In the future, Prizes may be given out for tournament winners. This will be updated when further information becomes available.
 
-1. **CLUB COMPETITION:** In the world of Amateur Radio Sport Contests, this is currently an individual contest. Plans to make club tournaments will be added in the future.
+**CLUB COMPETITION:**
+In the world of Amateur Radio Sport Contests, this is currently an individual contest. Plans to make club tournaments will be added in the future.
 
-1.
-# Participants: Anyone with an Amateur Radio Callsign, anywhere is welcome to participate. Additionally, anyone being supervised by someone with a valid callsign is considered eligible under that Callsign. One supervised individual per competition.
+*** Participants:***
+Anyone with an Amateur Radio Callsign, anywhere is welcome to participate. Additionally, anyone being supervised by someone with a valid callsign is considered eligible under that Callsign. One supervised individual per competition.
 
-#
-
-#
-
-#
-
-1.
 # DEFINITIONS OFTERMS:
 
 1. **Station location:** The area in which all the transmitters, receiversand antennas are located. All transmitters and receivers must be within a single 500-meter diameter circle. Antennas must be physically connected by RF transmission lines to the transmitters andreceivers.
@@ -35,7 +34,7 @@
 1. **Grid Square:** The first four characters of the Maidenhead locator system. The first two characters are the Field as defined above. The second two characters are each a digit from 0-9 for a total of 32,400Grid Squares defining the world. These are used in the exchange and for determining QSOpoints.
 
 1.
-# GENERAL RULES FOR ALLENTRANTS:
+# GENERAL RULES FOR ALL ENTRANTS:
 
 1. Entrants must operate within the limits of their chosen categorywhen performing any activity that could impact their submittedscore.
 
@@ -76,7 +75,7 @@ remotely operated station must obey all station license, operator license, and c
   1. **Entry Confirmation:** All logs received will be confirmed by &quot;Ham Radio Dude&quot; or &quot;Temporarily Offline&quot;.
 
 1.
-# LOGDEADLINE:
+# LOG DEADLINE:
 
 1. All entries must be sent WITHIN EIGHT (8) HOURS of the contest end.
 
@@ -112,24 +111,15 @@ remotely operated station must obey all station license, operator license, and c
 1. Call sign errors (bust) or call signs not in the other log (NIL) are removed and receive a penalty of the QSO point value for that contact. **4.** Contacts that do not meet the band change rules formulti- operator entries are removed with no additionalpenalty.
 
 1. **DECLARATION:** By Contest log, and in consideration of the efforts of the judges to review and evaluate that log, an entrant unconditionally andirrevocably
-
 agrees that he/she has: 1) read and understood the rules of the contest and agree to be bound by them, 2) operated according to all rules and regulations that pertain to amateur radio for the station location, 3) agreed the log entry may be made open to the public, and 4) accepted that the issuing of disqualifications and other decisions of the Committee are official and final.
 
-1.
 # POINTS:
 
 Point system is as follows:
 
-1. Contacts within your own country will count for 1 point
-
-  1. Standard contacts within your country count for 1 point
-  2. All contacts outside of the operator&#39;s country will count for 3 points
-  3. Special Event stations will count for 4 points
-
-2. Contestants operating Parks on the Air / Summit on the Air While QRP (under 20 watts):
-
-a. Standard contacts within your country count for 1 point
-
-b. All contacts outside ofo the operator&#39;s country will count for 4 points
-
-c. Special event stations will count for 5 points.
+1. Contacts within your own country will count for 1 point.
+2. All contacts outside of the operator&#39;s country (DX) will count for 3 points.
+3. Special Event (SE) stations (1x1 callsigns) will count for 4 points.
+4. Contestants operating Parks on the Air / Summit on the Air While QRP (under 20 watts) will receive an additional 1 point to DX and SE contacts.
+  a. All contacts outside ofo the operator&#39;s country will count for 4 points.
+  b. Special Event stations (1x1 callsigns) will count for 5 points.
