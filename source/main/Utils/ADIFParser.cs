@@ -20,7 +20,7 @@ namespace wsjt_message.Listener.Utils
             string adifrow;
             if (position < 1)
             {
-                Console.WriteLine("Header not present");
+                //Console.WriteLine("Header not present");
                 adifrow = adifdata;
             }
             else
