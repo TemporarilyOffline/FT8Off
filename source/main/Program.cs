@@ -1,7 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
+using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.DependencyInjection;
 
 // ********************************************************************
 // This program was adapted for use for the FT8OFF "Contest" by KD2FMW.
@@ -11,7 +15,15 @@ using System.Net.Sockets;
 namespace wsjt_message.Listener
 
     { public class Program
+
     {
+        public static IHostBuilder CreateHostBuilder(string[] args)=>
+        Host.CreateDefaultBuilder(args)
+            .UseSystemd()
+            .ConfigureServices((HostContext, services)=>
+            {
+                services.AddHostedService<Worker>();
+            });
         #region Class variables
         /// <summary>
         /// Port number of WSJT-X UDP
@@ -180,7 +192,7 @@ namespace wsjt_message.Listener
                                     string[] adifout = Utils.ADIFParser.ADIF(adif);
                                     Utils.DataBase.ADIFinsert(adifout);
                                     Utils.DataBase.DBClose();
-                                    Console.WriteLine("Contact Logged");
+                                    //Console.WriteLine("Contact Logged");
                                     break;
                                 default:
                                     break;
@@ -205,7 +217,7 @@ namespace wsjt_message.Listener
                             Utils.DataBase.ADIFinsert(adifout);
                             Utils.DataBase.DBADIFRaw(adifonly);
                             Utils.DataBase.DBClose();
-                            Console.WriteLine("Contact Logged");
+                            //Console.WriteLine("Contact Logged");
                         }
                     }
 
@@ -228,6 +240,9 @@ namespace wsjt_message.Listener
         /// Start Main Method
         /// </summary>
         /// <param name="args"></param>
+        
+
+        
         private static void Main(string[] args)
         {
             StartListener();
