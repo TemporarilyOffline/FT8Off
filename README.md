@@ -107,9 +107,10 @@ By Contest log, and in consideration of the efforts of the judges to review and 
 SCORING
 Point system is as follows:
 
-  1. Contacts within your own country will count for 1 point.
-  2. All contacts outside of the operator’s country (DX) will count for 3 points.
-  3. Special Event (SE) stations (1x1 callsigns) will count for 4 points.
-  4. Contestants operating Parks on the Air / Summit on the Air While QRP (under 20 watts) will receive an additional 1 point to DX and SE contacts.
-      a. All contacts outside of the operator’s country will count for 4 points.
-      b. Special Event stations (1x1 callsigns) will count for 5 points.
+  1. Contacts within your own DXCC entity as determined by the ARRL DXCC list will count for 1 point.
+  2. All contacts outside of the operator’s DXCC entity (DX) will count for 3 points.
+  3. Special Event (SE) stations will count for 4 points.
+  4. Contestants operating at a power rating of 20 watts or less will receive an additional 1 point to DX and SE contacts.
+      a. All contacts outside of the operator’s DXCC entity will count for 4 points.
+      b. Special Event stations will count for 5 points.
+  5. SE DX contacts will count for the higher value of the SE points.    
