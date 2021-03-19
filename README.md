@@ -61,8 +61,9 @@ Electronic submission of logs is **required** for all entrants.
         Exchange received
   2. A log without all required information may be invalidated. Contacts should be logged at the time they are completed.
   3. Single-band entrants are required to include all contacts made during the contest period, even if on other bands. Logs with contacts only on one band will be classified as single band entries unless the operator is operating in a tournament-style contest which does not specifically state it is a single band tournament.
-  4. The standard way to submit logs currently is to send the contents of the ADIF/ADI file via E-Mail.
-  5. Email is the current required method of log submission. Email is your logs in ADI/ADIF format to hrd@atfguy.com.
+  4. The standard format to submit logs in in a standard ADIF/ADI file.
+  5. Log submission is preferred via upload. Email is possible if you can not upload them. Send your logs in ADI/ADIF format to hrd@atfguy.com.
+  6. The upload site is https://ft8off.kd2fmw.com/upload.php
 
 ENTRY CONFIRMATION
 All logs received will be confirmed by “Ham Radio Dude” or “Temporarily Offline”
@@ -76,9 +77,9 @@ LOG DEADLINE
 LOG CHECKING
 All logs are checked using custom software and human judgment.
 
-  1. Duplicate contacts are removed with the penalty that NO points will count for any of the contacts made with that callsign/individual.
+  1. Duplicate contacts on the same band are removed and no additional points will be awrded.
   2. Contacts with an incorrectly received exchange are removed.
-  3. Call sign errors (bust) or call signs, not in the other log (NIL) are removed and receive a penalty of the QSO point value for that contact.
+  3. Call sign errors (bust) or call signs, not in the other log (NIL) are removed and receive no point value for that contact.
   4. Contacts that do not meet the band change rules for multi-operator entries are removed with no additional penalty.
 
 UNSPORTSMANLIKE CONDUCT
@@ -110,7 +111,8 @@ Point system is as follows:
   1. Contacts within your own DXCC entity as determined by the ARRL DXCC list will count for 1 point.
   2. All contacts outside of the operator’s DXCC entity (DX) will count for 3 points.
   3. Special Event (SE) stations will count for 4 points.
-  4. Contestants operating at a power rating of 20 watts or less will receive an additional 1 point to DX and SE contacts.
+  4. Contestants operating at a power rating of 20 watts (QRP addition) or less will receive an additional 1 point to DX and SE contacts.
       a. All contacts outside of the operator’s DXCC entity will count for 4 points.
       b. Special Event stations will count for 5 points.
-  5. SE DX contacts will count for the higher value of the SE points.    
+  5. For contests prior to 2021-03-20: SE DX contacts will count for the higher value of the SE Station.
+     For contests after 2021-03-20: SE DX contacts will be the sum of the point values for DX+SE. If this contact is done under the QRP addition, 1 point will be added.
