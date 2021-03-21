@@ -66,7 +66,7 @@ Electronic submission of logs is **required** for all entrants.
   6. The upload site is https://ft8off.kd2fmw.com/upload.php
 
 ENTRY CONFIRMATION
-All logs received will be confirmed by “Ham Radio Dude” or “Temporarily Offline”
+All logs received will be confirmed by “Ham Radio Dude” or “Temporarily Offline” 
 
 LOG DEADLINE
 
