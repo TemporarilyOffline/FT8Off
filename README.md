@@ -8,8 +8,8 @@ For amateurs around the world to make as many contacts as possible in a one hour
 BANDS
 As this is not an official contest, any band/frequency which allows FT8 is permitted.
 
-ONE TRANSMITTER
-A maximum of ONE Transmitter may be used at any given time during the competition. Contestants MUST indicate if they have switched Transmitters during the competition. A maximum of two different transmitters may be used during the span of each contest/competition if they are not used together. Once a transmitter has been deemed swapped or replaced, it may not be used for the rest of the competition/contest. Total output power must not exceed **1500 watts** on any band at any time, anything above 1500 Watts makes you a WAR CRIMINAL.
+TWO TRANSMITTERS
+A maximum of TWO Transmitters may be used at any given time during the competition. Total output power must not exceed **1500 watts** on any band at any time, anything above 100 Watts makes you a WAR CRIMINAL.
 
 AWARDS
 In the future, multiple awards may be offered. The plan or thought is to have two different awards: Multiband competition awards and single band. Awards can be done in certificate format or in prize format. Awards can also be fun. Any recommendations for awards may be considered.
@@ -40,7 +40,7 @@ GENERAL RULES FOR ALL ENTRANTS
   2. A different call sign must be used for each entry. Only the entrant’s call sign may be used to aid the entrant’s score.
   3. Do not exceed the total output power limitation of the chosen entry category on any band. Total output power on any band at any time is measured at the output of the active amplifier(s).
   4. Self-spotting or asking to be spotted is permitted.
-  5. Remote operation is permitted if the physical location of all transmitters, receivers, and antennas are at the station location.
+  5. Remote operation is permitted if all transmitters, receivers, and antennas are personally owned by you.
   6. A remotely operated station must obey all station licenses, operator licenses, and category limitations. The call sign used must be the one issued or permitted by the Regulatory Authority of the station location.
   7. Remote receivers outside the station location are not permitted.
   8. Alternating CQs on two or more frequencies on a band is not permitted.
@@ -107,9 +107,12 @@ By Contest log, and in consideration of the efforts of the judges to review and 
 SCORING
 Point system is as follows:
 
-  1. Contacts within your own country will count for 1 point.
-  2. All contacts outside of the operator’s country (DX) will count for 3 points.
-  3. Special Event (SE) stations (1x1 callsigns) will count for 4 points.
-  4. Contestants operating Parks on the Air / Summit on the Air While QRP (under 20 watts) will receive an additional 1 point to DX and SE contacts.
-      a. All contacts outside of the operator’s country will count for 4 points.
-      b. Special Event stations (1x1 callsigns) will count for 5 points.
+  1. 1pts Contacts within your own country
+  2. +2pts DX Contacts (Source of truth: cty.dat)
+  3. +3pts Special Event (SE) stations (Must be disclosed/verified within 24 hours of contest)
+  4. +1pts for QRP (<=20 watts)  (in power in FT8 Log)
+  5. +4 SOTA/POTA Contestants operating Parks on the Air / Summit on the Air (in comments in FT8 Log)
+  6. *0.5 FT4 Contacts
+  7. +1 for contacts made on US Technician Bands
+  8. Duplicate on same band/mode void all points with that contact on that band/mode
+  9. Bonuses are Stackable
